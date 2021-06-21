@@ -1,6 +1,6 @@
 # Portafolio-de-Jaume
 
-Proyecto del taller de leonidas esteban que puedes encontrar aqui:  https://leonidasesteban.com/proyectos/portafolio-jaume
+Proyecto del taller de leonidas Esteban que puedes encontrar aqui:  https://leonidasesteban.com/proyectos/portafolio-jaume
 
 ## Ver 🚀
 
