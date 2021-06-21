@@ -1,0 +1,44 @@
+.footer{
+    color: var(--white);
+    text-align: center;
+    font: var(--body1);
+
+}
+
+.footer .social{
+    justify-content: center;
+}
+
+.footer .footer-logo{
+    display: none;
+}
+
+@media screen and (min-width: 768px){
+    .footer{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .footer .social{
+        order: 3;
+        padding: 0;
+    }
+
+    .footer .footer-logo{
+        display: block;
+        padding-top: 16px;
+    }
+
+    div.social{
+        display: block;
+        margin-bottom: 40px;
+    }
+
+}
+
+@media screen and (min-width: 1024px){
+    .footer-copyright{
+        display: flex;
+    }
+
+}
