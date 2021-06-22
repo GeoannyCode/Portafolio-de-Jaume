@@ -46,11 +46,13 @@
 
     .project-description{
         flex: 1;
+        margin: 1px solid red;
     }
 
-    .project:nth-child(odd) .project-image{
-        order: 2;
+    .project:nth-of-type(odd) .project-image{
+        order: 1;
         flex: 1;
         text-align: center;
     }
+
 }

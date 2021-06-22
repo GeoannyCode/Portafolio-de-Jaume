@@ -8,6 +8,8 @@
 @import "./card-coment.css";
 @import "./project.css";
 @import "./footer.css";
+@import "./form.css";
+
 
 :root {
     --fontBase: 'Poppins', sans-serif;
@@ -26,6 +28,7 @@
     --purple: #310A90;
     --green: #42E2B8;
     --white: white;
+    --gray: #858C94;
 }
 
 body{
